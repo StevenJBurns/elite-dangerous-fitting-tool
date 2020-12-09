@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "name": "Adder",
+    "manufacturer": "Zorgon Peterson",
+    "baseCost": 0,
+    "size": "S",
+    "crew": 1,
+    "massLockFactor": 0,
+    "agility": 0,
+    "hardness": 0,
+    "hull": 0
+  },
+  {
+    "name": "Alliance Challenger",
+    "manufacturer": "Lakon",
+    "baseCost": 0,
+    "size": "M",
+    "crew": 1,
+    "massLockFactor": 0,
+    "agility": 0,
+    "hardness": 0,
+    "hull": 0
+  },
+  {
+    "name": "Alliance Chieftain",
+    "manufacturer": "Lakon",
+    "baseCost": 0,
+    "size": "M",
+    "crew": 1,
+    "massLockFactor": 0,
+    "agility": 0,
+    "hardness": 0,
+    "hull": 0
+  }
+]
