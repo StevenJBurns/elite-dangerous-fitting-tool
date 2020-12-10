@@ -31,5 +31,45 @@
     "agility": 0,
     "hardness": 0,
     "hull": 0
+  },
+  {
+    "name": "Alliance Crusader",
+    "manufacturer": "Lakon"
+  },
+  {
+    "name": "Anaconda",
+    "namufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Asp Explorer",
+    "namufacturer": "Lakon"
+  },
+  {
+    "name": "Asp Scout",
+    "namufacturer": "Lakon"
+  },
+  {
+    "name": "Beluga Liner",
+    "namufacturer": "Saud Kruger"
+  },
+  {
+    "name": "Cobra Mk III",
+    "namufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Cobra Mk IV",
+    "namufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Diamondback Explorer",
+    "namufacturer": "Lakon"
+  },
+  {
+    "name": "Diamondback Scout",
+    "namufacturer": "Lakon"
+  },
+  {
+    "name": "Dolphin",
+    "namufacturer": "Saud Kruger"
   }
 ]
