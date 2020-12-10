@@ -71,5 +71,105 @@
   {
     "name": "Dolphin",
     "namufacturer": "Saud Kruger"
+  },
+  {
+    "name": "Eagle",
+    "manufacturer": "Core Dynamics"
+  },
+  {
+    "name": "Federal Assault Ship",
+    "manufacturer": "Core Dynamics"
+    },
+  {
+    "name": "Federal Corvette",
+    "manufacturer": "Core Dynamics"
+  },
+  {
+    "name": "Federal Dropship",
+    "manufacturer": "Core Dynamics"
+  },
+  {
+    "name": "Federal Gunship",
+    "manufacturer": "Core Dynamics"
+  },
+  {
+    "name": "Fer-de-Lance",
+    "manufacturer": "Zorgon Peterson"
+  },
+  {
+    "name": "Hauler",
+    "manufacturer": "Zorgon Peterson"
+  },
+  {
+    "name": "Imperial Clipper",
+    "manufacturer": "Gutamaya"
+  },
+  {
+    "name": "Imperial Courier",
+    "manufacturer": "Gutamaya"
+  },
+  {
+    "name": "Imperial Cutter",
+    "manufacturer": "Gutamaya"
+  },
+  {
+    "name": "Imperial Eagle",
+    "manufacturer": "Gutamaya"
+  },
+  {
+    "name": "Keelback",
+    "manufacturer": "Lakon"
+  },
+  {
+    "name": "Krait Mk II",
+    "manufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Krait Phantom",
+    "manufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Mamba",
+    "manufacturer": "Zorgon Peterson"
+  },
+  {
+    "name": "Orca",
+    "manufacturer": "Saud Kruger"
+  },
+  {
+    "name": "Python",
+    "manufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Sidewinder",
+    "manufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Type-10 Defender",
+    "manufacturer": "Lakon"
+  },
+  {
+    "name": "Type-6 Transporter",
+    "manufacturer": "Lakon"
+  },
+  {
+    "name": "Type-7 Transporter",
+    "manufacturer": "Lakon"
+  },
+  {
+    "name": "Type-9 Heavy",
+    "manufacturer": "Lakon"
+  },
+  {
+    "name": "Viper",
+    "manufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Viper Mk IV",
+    "manufacturer": "Faulcon DeLacy"
+  },
+  {
+    "name": "Vulture",
+    "manufacturer": "Core Dynamics"
   }
 ]
