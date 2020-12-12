@@ -3,7 +3,7 @@
     "name": "Adder",
     "manufacturer": "Zorgon Peterson",
     "baseCost": 0,
-    "size": "S",
+    "size": "Small",
     "crew": 1,
     "massLockFactor": 0,
     "agility": 0,
@@ -14,7 +14,7 @@
     "name": "Alliance Challenger",
     "manufacturer": "Lakon",
     "baseCost": 0,
-    "size": "M",
+    "size": "Medium",
     "crew": 1,
     "massLockFactor": 0,
     "agility": 0,
@@ -25,7 +25,7 @@
     "name": "Alliance Chieftain",
     "manufacturer": "Lakon",
     "baseCost": 0,
-    "size": "M",
+    "size": "Medium",
     "crew": 1,
     "massLockFactor": 0,
     "agility": 0,
@@ -35,176 +35,176 @@
   {
     "name": "Alliance Crusader",
     "manufacturer": "Lakon",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Anaconda",
     "manufacturer": "Faulcon DeLacy",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Asp Explorer",
     "manufacturer": "Lakon",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Asp Scout",
     "manufacturer": "Lakon",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Beluga Liner",
     "manufacturer": "Saud Kruger",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Cobra Mk III",
     "manufacturer": "Faulcon DeLacy",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Cobra Mk IV",
     "manufacturer": "Faulcon DeLacy",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Diamondback Explorer",
     "manufacturer": "Lakon",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Diamondback Scout",
     "manufacturer": "Lakon",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Dolphin",
     "manufacturer": "Saud Kruger",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Eagle",
     "manufacturer": "Core Dynamics",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Federal Assault Ship",
     "manufacturer": "Core Dynamics",
-    "size": "M"
+    "size": "Medium"
     },
   {
     "name": "Federal Corvette",
     "manufacturer": "Core Dynamics",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Federal Dropship",
     "manufacturer": "Core Dynamics",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Federal Gunship",
     "manufacturer": "Core Dynamics",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Fer-de-Lance",
     "manufacturer": "Zorgon Peterson",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Hauler",
     "manufacturer": "Zorgon Peterson",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Imperial Clipper",
     "manufacturer": "Gutamaya",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Imperial Courier",
     "manufacturer": "Gutamaya",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Imperial Cutter",
     "manufacturer": "Gutamaya",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Imperial Eagle",
     "manufacturer": "Gutamaya",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Keelback",
     "manufacturer": "Lakon",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Krait Mk II",
     "manufacturer": "Faulcon DeLacy",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Krait Phantom",
     "manufacturer": "Faulcon DeLacy",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Mamba",
     "manufacturer": "Zorgon Peterson",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Orca",
     "manufacturer": "Saud Kruger",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Python",
     "manufacturer": "Faulcon DeLacy",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Sidewinder",
     "manufacturer": "Faulcon DeLacy",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Type-10 Defender",
     "manufacturer": "Lakon",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Type-6 Transporter",
     "manufacturer": "Lakon",
-    "size": "M"
+    "size": "Medium"
   },
   {
     "name": "Type-7 Transporter",
     "manufacturer": "Lakon",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Type-9 Heavy",
     "manufacturer": "Lakon",
-    "size": "L"
+    "size": "Large"
   },
   {
     "name": "Viper",
     "manufacturer": "Faulcon DeLacy",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Viper Mk IV",
     "manufacturer": "Faulcon DeLacy",
-    "size": "S"
+    "size": "Small"
   },
   {
     "name": "Vulture",
     "manufacturer": "Core Dynamics",
-    "size": "S"
+    "size": "Small"
   }
 ]

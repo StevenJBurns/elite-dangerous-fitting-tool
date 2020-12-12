@@ -6,7 +6,7 @@ export interface Ship {
 };
 
 export enum ShipSize {
-  S = "S",
-  M = "M",
-  L = "L"
+  Small = "Small",
+  Medium = "Medium",
+  Large = "Large"
 };
