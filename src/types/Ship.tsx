@@ -1,8 +1,10 @@
 export interface Ship {
   name: string,
   manufacturer: string,
+  baseCost: number
   size: string,
-  baseCost?: number
+  crew?: number,
+  
 };
 
 export enum ShipSize {
