@@ -103,6 +103,7 @@ $RECYCLE.BIN/
 /node_modules
 /.pnp
 .pnp.js
+.eslintcache
 
 # testing
 /coverage
